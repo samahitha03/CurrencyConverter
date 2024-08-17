@@ -16,7 +16,7 @@ type ExchangeRates struct {
 }
 
 func main() {
-	apiKey := "8758b5e30c6b18bad6fc2130"
+	apiKey := "API KEY"
 
 	var baseCurrency, targetCurrency string
 	var amount float64

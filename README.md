@@ -12,8 +12,4 @@ This project provides a simple command-line currency converter. Users can input 
 - Handle user input and display conversion results.
 
 ## Usage 
-
-Enter base currency (e.g., USD): USD
-Enter target currency (e.g., EUR): INR
-Enter amount: 650
-650.00 USD = 54557.10 INR
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/5dd18abf-53b9-4879-b008-fcc956068908">
